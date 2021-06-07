@@ -1,1 +1,2 @@
-# JulianDate---Abstract-Data-Types
+a Java program that uses a Julian Date. The program should ask for a birthday and figure out how many days old the person is and what weekday they were born on. If today is their birthday, then write out a special message. If you have lived a number of days that is divisible by 100, print a special message!
+Moreover a metric system is proposed to reform the calendar. It will have 10 regular days are a week, 10 weeks a month, 10 months a year converting from JulianDate to metric and from metric to JulianDate.
